@@ -163,6 +163,9 @@ dotnet sitecore index rebuild
 Write-Host "Pushing Default rendering host configuration" -ForegroundColor Green
 dotnet sitecore ser push -i RenderingHost
 
+Write-Host "Pushing SXADemoSitecollection templates, renderings, media items and content" -ForegroundColor Green
+dotnet sitecore ser push -i SXADemoSitecollection
+
 Write-Host "Pushing sitecore API key" -ForegroundColor Green
 & docker\build\cm\templates\import-templates.ps1 -RenderingSiteName "xmcloudpreview" -SitecoreApiKey $sitecoreApiKey
 
@@ -170,6 +173,7 @@ if ($ClientCredentialsLogin -ne "true") {
     Write-Host "Opening site..." -ForegroundColor Green
     
     Start-Process https://xmcloudcm.localhost/sitecore/
+    Start-Process https://www.sxastarter.localhost/
 }
 
 Write-Host ""
