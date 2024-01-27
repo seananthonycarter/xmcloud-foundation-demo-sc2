@@ -1,0 +1,41 @@
+﻿---
+ID: "c7e2519b-5d1b-4543-a4da-475cc72420cf"
+Parent: "979d712d-042a-4636-a0ca-966ebc21e6ca"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/SXA Demo site collection/Demo site 2/Media
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {48DCF44C-18A9-4327-A6CC-BEE2B86D6CAC}
+    {B86DE26D-AC53-43F8-9961-9FC3F2E051B5}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240124T090022Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c139dc49-0bf5-4130-9bc9-06f6488a6a3d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240124T090023Z

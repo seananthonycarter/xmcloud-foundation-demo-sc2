@@ -1,0 +1,47 @@
+﻿---
+ID: "cf338181-c304-4d93-b4d2-80f8dbb9d40e"
+Parent: "c6f2bc9e-bd60-4248-a83c-f06dd928002c"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/SXA Demo site collection/Demo site 1/Data/Promos/Promo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240124T110710Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: <p>Title</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9313bf4-cdc7-489d-baae-f22ee22428b9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
+      Hint: PromoText3
+      Value:  Nulla placerat nisl at nisl fermentum tempus. Proin a diam in ante fringilla efficitur nec vel ex. Fusce egestas malesuada sagittis.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240124T111509Z
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{EF1D9222-19BC-4214-AC08-E3C26F7D2272}" />

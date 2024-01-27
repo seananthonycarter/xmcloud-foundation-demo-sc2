@@ -1,0 +1,31 @@
+﻿---
+ID: "70fa3ba0-8f27-422f-8ee3-e18b702a473a"
+Parent: "438bb376-a848-4f29-a1a4-8bd97302e286"
+Template: "438bb376-a848-4f29-a1a4-8bd97302e286"
+Path: /sitecore/templates/Project/SXA Demo site collection/JSS Settings/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240124T085619Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "405e08f6-f257-4e81-b4f2-2b4b8a8c5cf5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240124T085619Z
