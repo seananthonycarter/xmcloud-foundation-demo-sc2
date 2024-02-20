@@ -1,0 +1,32 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "SXADemositecollection2",
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/SXA Demo site collection 2",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "content-root",
+                "path": "/sitecore/content/SXA Demo Site Collection 2",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/Project/SXA Demo site collection 2",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/SXA Demo site collection 2",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "itemAndDescendants"
+            }
+        ]
+    }
+}

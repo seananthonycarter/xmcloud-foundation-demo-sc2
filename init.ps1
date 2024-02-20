@@ -82,6 +82,7 @@ try {
     Write-Host "Generating Traefik TLS certificate..." -ForegroundColor Green
     & $mkcert -install
     & $mkcert "*.sxastarter.localhost"
+    & $mkcert "*.sxademosite1.localhost"
     & $mkcert "xmcloudcm.localhost"
 
     # stash CAROOT path for messaging at the end of the script
@@ -103,6 +104,7 @@ Write-Host "Adding Windows hosts file entries..." -ForegroundColor Green
 
 Add-HostsEntry "xmcloudcm.localhost"
 Add-HostsEntry "www.sxastarter.localhost"
+Add-HostsEntry "www.sxademosite1.localhost"
 
 ###############################
 # Generate scjssconfig
@@ -139,6 +141,7 @@ if ($InitEnv) {
 
     # RENDERING_HOST
     Set-EnvFileVariable "RENDERING_HOST" -Value "www.sxastarter.localhost"
+    Set-EnvFileVariable "RENDERING_HOST_SXADEMOSITE1" -Value "www.sxademosite1.localhost"
 
     # REPORTING_API_KEY = random 64-128 chars
     Set-EnvFileVariable "REPORTING_API_KEY" -Value (Get-SitecoreRandomString 128 -DisallowSpecial)

@@ -1,5 +1,5 @@
 #remove unused networks
-docker network prune
+#docker network prune
 
 $ErrorActionPreference = "Stop";
 
@@ -158,16 +158,16 @@ if ($LASTEXITCODE -ne 0) {
 
 # Rebuild indexes
 Write-Host "Rebuilding indexes ..." -ForegroundColor Green
-dotnet sitecore index rebuild
+#dotnet sitecore index rebuild
 
 Write-Host "Pushing Default rendering host configuration" -ForegroundColor Green
-dotnet sitecore ser push -i RenderingHost
+#dotnet sitecore ser push -i RenderingHost
 
 Write-Host "Pushing sitecore API key" -ForegroundColor Green
-& docker\build\cm\templates\import-templates.ps1 -RenderingSiteName "xmcloudpreview" -SitecoreApiKey $sitecoreApiKey
+#& docker\build\cm\templates\import-templates.ps1 -RenderingSiteName "xmcloudpreview" -SitecoreApiKey $sitecoreApiKey
 
 Write-Host "Pushing SXADemoSitecollection templates, renderings, media items and content" -ForegroundColor Green
-dotnet sitecore ser push -i SXADemoSitecollection
+#dotnet sitecore ser push -i SXADemoSitecollection
 
 
 if ($ClientCredentialsLogin -ne "true") {
@@ -175,6 +175,7 @@ if ($ClientCredentialsLogin -ne "true") {
     
     Start-Process https://xmcloudcm.localhost/sitecore/
     Start-Process https://www.sxastarter.localhost/
+    Start-Process https://www.sxademosite1.localhost
 }
 
 Write-Host ""

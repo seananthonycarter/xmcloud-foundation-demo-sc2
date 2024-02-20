@@ -19,7 +19,7 @@ services:
       args:
         PARENT_IMAGE: ${REGISTRY}${COMPOSE_PROJECT_NAME}-nodejs:${VERSION:-latest}
     volumes:
-      - .\src\sxastarter:C:\app
+      - .\src\sxademositecollection\sxastarter:C:\app
     environment:
       SITECORE_API_HOST: "http://cm"
       NEXTJS_DIST_DIR: ".next-container"
@@ -36,12 +36,39 @@ services:
       - "traefik.http.routers.rendering-secure.rule=Host(`${RENDERING_HOST}`)"
       - "traefik.http.routers.rendering-secure.tls=true"
 
+  renderingsxademosite1:
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-renderingsxademosite1:${VERSION:-latest}
+    build:
+      context: ./docker/build/renderingsxademosite1
+      target: ${BUILD_CONFIGURATION}
+      args:
+        PARENT_IMAGE: ${REGISTRY}${COMPOSE_PROJECT_NAME}-nodejs:${VERSION:-latest}
+    volumes:
+      - .\src\sxademositecollection2\sxademosite1:C:\app
+    environment:
+      SITECORE_API_HOST: "http://cm"
+      NEXTJS_DIST_DIR: ".next-container-sxademosite1"
+      PUBLIC_URL: "https://${RENDERING_HOST_SXADEMOSITE1}"
+      JSS_EDITING_SECRET: ${JSS_EDITING_SECRET}
+      SITECORE_API_KEY: "${SITECORE_API_KEY_xmcloudpreview}"
+      DISABLE_SSG_FETCH: ${DISABLE_SSG_FETCH}
+    depends_on:
+      - cm
+      - nodejs
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.renderingsxademosite1-secure.entrypoints=websecure"
+      - "traefik.http.routers.renderingsxademosite1-secure.rule=Host(`${RENDERING_HOST_SXADEMOSITE1}`)"
+      - "traefik.http.routers.renderingsxademosite1-secure.tls=true"
+
+
   # Mount the Traefik configuration and certs.
   traefik:
     volumes:
       - ./docker/traefik:C:/etc/traefik
     depends_on:
       - rendering
+      - renderingsxademosite1
 
   # Mount our SQL data folder and use our custom image with the Headless Services (JSS)
   # module data added. See Dockerfile for details.
