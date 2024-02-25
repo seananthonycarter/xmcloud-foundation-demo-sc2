@@ -47,7 +47,7 @@ SharedFields:
           uid="{AECC73DE-B1E4-40E4-B983-A0E8D4A0D905}"
           p:after="r[@uid='{8D3A6B8F-E6CA-401B-BF39-1EB739A1C926}']"
           s:ds="local:/Data/PromoLeft"
-          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:id="{4B7FDB1D-C488-42CB-AB01-8608E90360E6}"
           s:par="?Styles=%7b27DECB35-4EC0-48B7-A0AD-D554963972CD%7d&amp;FieldNames=%7bDE305A61-C701-4CB0-8EBA-8A80065BFCAB%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d%7c%7b41E4B2ED-E813-46F9-8455-C26C88E78D47%7d%7c%7b1D84575C-B71C-40B2-BE7E-65503BCD666E%7d"
           s:ph="/headless-main/container-1" />
         <r
@@ -67,6 +67,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20240215T080835Z
@@ -83,7 +86,7 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d54b883f-2f0b-4281-b214-41caac1be844"
+      Value: "f1bb4733-78ec-4f75-a811-78884f15b1a1"
     - ID: "97746b01-a8e8-4603-8270-95216da7a5f8"
       Hint: Title
       Value: Home
@@ -93,4 +96,4 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240215T080859Z
+      Value: 20240225T213833Z

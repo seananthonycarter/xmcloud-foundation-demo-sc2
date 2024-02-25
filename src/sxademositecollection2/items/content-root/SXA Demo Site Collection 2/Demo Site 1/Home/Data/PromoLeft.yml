@@ -1,7 +1,7 @@
 ﻿---
 ID: "fd0277f6-020b-461b-9c20-bc2d40a5d096"
 Parent: "8aac3665-1f5c-439a-8977-cddb80c46230"
-Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Template: "dd369f68-1baa-4e85-aba2-1336569dbd06"
 Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Home/Data/PromoLeft
 BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
 SharedFields:
@@ -13,14 +13,17 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20240215T080854Z
-    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "10274a1f-a9df-4a68-a508-66aeb04afbb7"
       Hint: PromoText
       Value: |
         <h3>Latest Streetwear</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240215T080854Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,15 +34,18 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9849b034-3e83-4ab2-ae29-b9cb6c473d93"
+      Value: "7a9e87bf-7a6a-4b32-86b3-5c46df34135b"
+    - ID: "b2d29367-4337-46b4-b0dd-77c8a2a4c2f9"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{76EB033E-780D-45F5-BF48-E447204B88FA}" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sacarter@gmail.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240215T080854Z
-    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
-      Hint: PromoIcon
-      Value: |
-        <image mediaid="{76EB033E-780D-45F5-BF48-E447204B88FA}" />
+      Value: 20240225T214032Z
+    - ID: "f21c6fc0-82c6-49ef-bbcd-2e989a35e151"
+      Hint: SXADemoText
+      Value: New text thing, text changed
