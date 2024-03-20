@@ -34,6 +34,7 @@ export const Default = (props: PromoProps): JSX.Element => {
   if (props.fields) {
     return (
       <div className={`component promo ${props.params.styles}`} id={id ? id : undefined}>
+        <h1>hello world</h1>
         <div className="component-content">
           <JssRichText field={props.fields.SXADemoText} />
           <div className="field-promoicon">
