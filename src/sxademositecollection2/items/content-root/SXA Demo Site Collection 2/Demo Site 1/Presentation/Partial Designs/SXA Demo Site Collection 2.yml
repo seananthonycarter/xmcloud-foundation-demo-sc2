@@ -1,0 +1,27 @@
+﻿---
+ID: "ce14e097-70f9-41ab-ba33-b4e394423a6f"
+Parent: "91cad03d-e55f-4684-a5d9-f4fe60bb1ad3"
+Template: "b8e8f46d-b70f-471b-ac87-a3f2f54425e9"
+Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Presentation/Partial Designs/SXA Demo Site Collection 2
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240307T173039Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce78b402-f123-4f84-b816-2727f107052d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240307T173046Z

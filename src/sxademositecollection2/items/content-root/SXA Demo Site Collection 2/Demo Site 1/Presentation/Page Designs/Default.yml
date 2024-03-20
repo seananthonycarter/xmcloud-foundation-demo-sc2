@@ -6,7 +6,14 @@ Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Presentation/Page
 SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
-  Value: "{DDFECDAD-A1EB-42AC-AD5F-2804A6623FD0}|{C0A48246-6979-4616-9123-D8C79CB0DB21}"
+  Value: "{C0A48246-6979-4616-9123-D8C79CB0DB21}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{817A964E-F0F1-47CE-B80E-E7D86534C709}" />
 Languages:
 - Language: en
   Versions:
@@ -25,11 +32,11 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9989af95-c428-4ac4-a18a-d7cb9960c217"
+      Value: "a0d1cec1-e67d-4ed2-8efe-8876816f42ab"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sacarter@gmail.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240215T080858Z
+      Value: 20240307T071755Z

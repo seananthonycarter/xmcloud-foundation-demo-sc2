@@ -5,6 +5,9 @@ Template: "a908dba0-b77c-4746-9175-f7c06ba023a0"
 Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Home
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{A9E4F914-3800-41BB-8349-06F035009477}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
@@ -86,7 +89,7 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f1bb4733-78ec-4f75-a811-78884f15b1a1"
+      Value: "5b865082-5933-46e9-b0c8-d6be73643f34"
     - ID: "97746b01-a8e8-4603-8270-95216da7a5f8"
       Hint: Title
       Value: Home
@@ -96,4 +99,4 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240225T213833Z
+      Value: 20240308T110856Z

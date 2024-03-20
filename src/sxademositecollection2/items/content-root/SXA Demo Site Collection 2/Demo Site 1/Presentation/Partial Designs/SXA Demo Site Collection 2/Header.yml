@@ -1,0 +1,80 @@
+﻿---
+ID: "0c4031ac-b3a5-497f-b5c3-7e7108a950ec"
+Parent: "ce14e097-70f9-41ab-ba33-b4e394423a6f"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Presentation/Partial Designs/SXA Demo Site Collection 2/Header
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3AEDC5A3-C75D-4AC1-8B2E-92E69D130F9A}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C9CB82CF-561C-4A9C-831D-1A6EC36C053C}"
+          p:before="*"
+          s:ds="local:/Data/Title"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b277FAA22-EA49-4575-B524-473A9AFDC86F%7d&amp;FieldNames=%7b4CBBC1E4-B168-4B87-AE82-CFA1BA1C4D0E%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d"
+          s:ph="headless-header" />
+        <r
+          uid="{C5968BED-E761-456E-89BF-F78C0298FDFB}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{4C4CADA3-15EF-48AD-826C-43EE909F6745}"
+          s:par="SerializerFieldNames&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B01AB22C5-5CF5-476C-B9E1-FD8AC70EFAAE%7D&amp;Styles=%7B6FD9C63B-B49C-4836-AE8F-3D871F5CFCDD%7D%7C%7BEFA99B1C-84D4-4069-9211-DD9C5E7AF902%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;AddRoot=1&amp;NavigationRoot=%7B7F3991B0-1169-4737-A152-4E41CE0E354A%7D"
+          s:ph="headless-header"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D044EFED-079F-4CB1-9D22-E7BFF1DB5A8F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C5968BED-E761-456E-89BF-F78C0298FDFB}"
+              s:ds="local:/Data/New SXA Demo Page Navigation"
+              s:par="SerializerFieldNames=field-one%20field-two%20field-three%20field-four&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B01AB22C5-5CF5-476C-B9E1-FD8AC70EFAAE%7D&amp;Styles=%7B6FD9C63B-B49C-4836-AE8F-3D871F5CFCDD%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;AddRoot=1&amp;NavigationRoot=%7B7F3991B0-1169-4737-A152-4E41CE0E354A%7D" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240215T080853Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7db7a17-2c37-4bb8-b58e-2cadcfd3e7e5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240311T175059Z
