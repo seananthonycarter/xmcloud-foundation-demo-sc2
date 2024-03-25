@@ -22,10 +22,8 @@ export const Default = (props: NavigationProps): React.JSX.Element => {
   const id = props.params.RenderingIdentifier;
   if (props.fields) {
     return (
-      <div
-        className={`component my-component ${props.params.styles}`}
-        id={id ? id : undefined}
-      >
+      <div className={`component my-component ${props.params.styles}`}
+        id={id ? id : undefined}>
         <Text className="text-white bg-black" field={props.fields.NavTitle} />
       </div>
     );
