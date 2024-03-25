@@ -1,7 +1,7 @@
 {
     "renderingHosts": {
       "xmcloudpreview": {
-        "path": "./src/sxastarter",
+        "path": "./src/sxademositecollection/sxastarter",
         "nodeVersion": "20.10.0",
         "jssDeploymentSecret": "110F1C44A496B45478640DD36F80C18C9",
         "enabled": true,
@@ -12,7 +12,7 @@
         "runCommand": "next:start"
       },  
       "sxademosite1": {
-        "path": "./src/sxademosite1",
+        "path": "./src/sxademositecollection2/sxademosite1",
         "nodeVersion": "20.10.0",
         "jssDeploymentSecret": "110F1C44A496B45478640DD36F80C18C9",
         "enabled": true,
