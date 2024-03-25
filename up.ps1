@@ -9,8 +9,8 @@ $ErrorActionPreference = "Stop";
 Start-Process -Wait -NoNewWindow cmd -ArgumentList /c, "DockerCli.exe -SwitchWindowsEngine" -WorkingDirectory "C:\Program Files\Docker\Docker\"
 
 # Kill IIS if it is running
-try { IISRESET /STOP }
-catch { Write-Host "IISReset failed or IIS not installed" -ForegroundColor Yellow }
+#try { IISRESET /STOP }
+#catch { Write-Host "IISReset failed or IIS not installed" -ForegroundColor Yellow }
 
 # Check port numbers
 function Test-SitecorePorts {
@@ -161,13 +161,16 @@ Write-Host "Rebuilding indexes ..." -ForegroundColor Green
 #dotnet sitecore index rebuild
 
 Write-Host "Pushing Default rendering host configuration" -ForegroundColor Green
-#dotnet sitecore ser push -i RenderingHost
+dotnet sitecore ser push -i RenderingHost
 
 Write-Host "Pushing sitecore API key" -ForegroundColor Green
-#& docker\build\cm\templates\import-templates.ps1 -RenderingSiteName "xmcloudpreview" -SitecoreApiKey $sitecoreApiKey
+& docker\build\cm\templates\import-templates.ps1 -RenderingSiteName "xmcloudpreview" -SitecoreApiKey $sitecoreApiKey
 
 Write-Host "Pushing SXADemoSitecollection templates, renderings, media items and content" -ForegroundColor Green
-#dotnet sitecore ser push -i SXADemoSitecollection
+dotnet sitecore ser push -i SXADemoSitecollection
+
+Write-Host "Pushing SXADemoSitecollection2 templates, renderings, media items and content" -ForegroundColor Green
+dotnet sitecore ser push -i SXADemoSitecollection2
 
 
 if ($ClientCredentialsLogin -ne "true") {
