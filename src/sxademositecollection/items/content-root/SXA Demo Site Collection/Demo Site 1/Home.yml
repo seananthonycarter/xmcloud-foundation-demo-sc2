@@ -3,7 +3,6 @@ ID: "d4cc52ec-0c95-4cba-8dbe-71d5bdf78672"
 Parent: "7acb50ca-e289-48b5-a3d8-ec6500beca45"
 Template: "7bcdc4b2-c2af-4e73-a141-7cb51b4c7bcb"
 Path: /sitecore/content/SXA Demo Site Collection/Demo Site 1/Home
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
@@ -29,10 +28,18 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{3FCCBA8A-FB59-487B-A24F-7D4EBD146B36}"
+              p:before="*"
               s:ds="{CF338181-C304-4D93-B4D2-80F8DBB9D40E}"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BF6A0F32C-7A0D-4F55-B334-AC820BDE52AC%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="headless-main" />
+            <r
+              uid="{6FFD73AD-ADA0-4931-8B05-AA7949DADFB9}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Text 1"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BF1C3E360-DC40-4541-B23C-4F8EE4D5CBEE%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-footer" />
           </d>
         </r>
     - ID: "0d8180e7-16f9-44fe-a605-2a6031f0a649"
@@ -54,11 +61,11 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "13c59685-a874-456a-b7af-ff045d1129fb"
+      Value: "7c9c7c56-6d04-412e-913e-868efd2e0812"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sacarter@gmail.com
+        sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240124T110738Z
+      Value: 20240326T105734Z

@@ -3,7 +3,6 @@ ID: "0e5f0cba-2a8c-46dc-9899-a021dc6466d2"
 Parent: "7acb50ca-e289-48b5-a3d8-ec6500beca45"
 Template: "438bb376-a848-4f29-a1a4-8bd97302e286"
 Path: /sitecore/content/SXA Demo Site Collection/Demo Site 1/Settings
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
   Hint: DictionaryDomain
@@ -74,11 +73,14 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0c3b1c61-2d3b-4856-bd04-f738162abe89"
+      Value: "1534b8f9-6bc4-40f7-8823-768c59a48904"
+    - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
+      Hint: ComponentDataSourceTemplates
+      Value: "{EEB4DC58-0E41-44DA-8E51-086CE93345B4}"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sacarter@gmail.com
+        sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240124T173058Z
+      Value: 20240326T104655Z
