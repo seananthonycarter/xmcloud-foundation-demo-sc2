@@ -32,6 +32,6 @@
     "incremental": true,
     "forceConsistentCasingInFileNames": false
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "../../eventssitecollection/events/src/components/tac/LayoutContextData.tsx"],
   "exclude": ["node_modules"]
 }
