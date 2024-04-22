@@ -8,7 +8,7 @@
     .\init.ps1 -InitEnv -LicenseXmlPath "C:\path\to\license.xml" -AdminPassword "DesiredAdminPassword"
     ```
 
-2. Restart your terminal and run....
+2. Restart your terminal and run:
 
     ```ps1
     .\up.ps1
