@@ -24,14 +24,17 @@ Languages:
         sitecore\HXXG3xnNRt
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: <p>Footer content</p>
+      Value: |
+        <p>
+        Nunc vel malesuada ex, sit amet venenatis orci. Proin vitae dui porta ante tincidunt hendrerit at a metus. Nullam ac vehicula nunc, vitae pellentesque sapien. Suspendisse faucibus dolor ut erat porttitor placerat. Nullam sed consectetur eros. Aliquam a sagittis ex, ac lacinia massa. Maecenas nec turpis vitae est rhoncus luctus. Vestibulum viverra tempus sem, sit amet luctus nulla iaculis ac. Mauris finibus ultrices erat, a sagittis tellus. Aenean in sagittis est, quis suscipit sapien. Ut congue ullamcorper enim, non tincidunt tellus luctus a. Nullam sed ex in tortor euismod fermentum. Ut vulputate ex augue, et rhoncus velit porttitor vitae. Nam viverra metus ac mattis semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc vitae semper tortor.
+        </p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "530ebcc7-c844-4528-b230-4d02ddc67a82"
+      Value: "ed204fda-a39f-41e8-b6a7-98e03440ff03"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240326T105746Z
+      Value: 20240606T164320Z
