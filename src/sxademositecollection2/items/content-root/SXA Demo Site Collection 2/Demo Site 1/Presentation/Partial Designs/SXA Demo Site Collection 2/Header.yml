@@ -11,7 +11,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{3AEDC5A3-C75D-4AC1-8B2E-92E69D130F9A}" />
+    <image mediaid="{51C6066E-3CC1-4445-8290-84EFD3B997FC}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -30,8 +30,8 @@ SharedFields:
           uid="{C5968BED-E761-456E-89BF-F78C0298FDFB}"
           p:after="*[1=2]"
           s:ds=""
-          s:id="{4C4CADA3-15EF-48AD-826C-43EE909F6745}"
-          s:par="SerializerFieldNames&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B01AB22C5-5CF5-476C-B9E1-FD8AC70EFAAE%7D&amp;Styles=%7B6FD9C63B-B49C-4836-AE8F-3D871F5CFCDD%7D%7C%7BEFA99B1C-84D4-4069-9211-DD9C5E7AF902%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;AddRoot=1&amp;NavigationRoot=%7B7F3991B0-1169-4737-A152-4E41CE0E354A%7D"
+          s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+          s:par="SerializerFieldNames&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B01AB22C5-5CF5-476C-B9E1-FD8AC70EFAAE%7D&amp;Styles=%7B6FD9C63B-B49C-4836-AE8F-3D871F5CFCDD%7D%7C%7BEFA99B1C-84D4-4069-9211-DD9C5E7AF902%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;AddRoot=1&amp;NavigationRoot=%7B7F3991B0-1169-4737-A152-4E41CE0E354A%7D"
           s:ph="headless-header"
           s:ccb="Clear on publish" />
       </d>
@@ -70,11 +70,11 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a7db7a17-2c37-4bb8-b58e-2cadcfd3e7e5"
+      Value: "cd6d8e2b-0d71-4ddc-b7d7-882e66e70ce8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sacarter@gmail.com
+        sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240311T175059Z
+      Value: 20240606T145621Z

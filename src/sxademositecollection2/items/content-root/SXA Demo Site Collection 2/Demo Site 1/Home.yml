@@ -7,7 +7,7 @@ BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
-  Value: "{A9E4F914-3800-41BB-8349-06F035009477}"
+  Value: "{E1B89CDA-170E-4BE2-92D7-5E69E54D30DC}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
@@ -50,7 +50,7 @@ SharedFields:
           uid="{AECC73DE-B1E4-40E4-B983-A0E8D4A0D905}"
           p:after="r[@uid='{8D3A6B8F-E6CA-401B-BF39-1EB739A1C926}']"
           s:ds="local:/Data/PromoLeft"
-          s:id="{4B7FDB1D-C488-42CB-AB01-8608E90360E6}"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
           s:par="?Styles=%7b27DECB35-4EC0-48B7-A0AD-D554963972CD%7d&amp;FieldNames=%7bDE305A61-C701-4CB0-8EBA-8A80065BFCAB%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d%7c%7b41E4B2ED-E813-46F9-8455-C26C88E78D47%7d%7c%7b1D84575C-B71C-40B2-BE7E-65503BCD666E%7d"
           s:ph="/headless-main/container-1" />
         <r
@@ -89,14 +89,14 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5b865082-5933-46e9-b0c8-d6be73643f34"
+      Value: "0be1fae5-9e0d-4c0c-a77f-3c630bad7aa8"
     - ID: "97746b01-a8e8-4603-8270-95216da7a5f8"
       Hint: Title
       Value: Home
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sacarter@gmail.com
+        sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240308T110856Z
+      Value: 20240606T145621Z

@@ -24,7 +24,7 @@ SharedFields:
   Value: www.sxademosite1.localhost
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
-  Value: sxademosite1
+  Value: Demo Sitecollection 2 demo site 1
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{23E42340-77BE-49FC-A7C4-77D3CB545223}"
@@ -46,11 +46,11 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5f80b829-a492-440e-9657-6e0a299ebba1"
+      Value: "9fcd9b03-f178-4796-954a-2e5da8c78921"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240326T171744Z
+      Value: 20240606T143920Z

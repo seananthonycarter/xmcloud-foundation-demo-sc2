@@ -19,7 +19,7 @@ Languages:
     - ID: "10274a1f-a9df-4a68-a508-66aeb04afbb7"
       Hint: PromoText
       Value: |
-        <h3>Latest Streetwear</h3>
+        <h3>Latest Tricks</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.</p>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
@@ -34,18 +34,18 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7a9e87bf-7a6a-4b32-86b3-5c46df34135b"
+      Value: "9b27d519-ea58-41d6-8821-9ced91a2ac73"
     - ID: "b2d29367-4337-46b4-b0dd-77c8a2a4c2f9"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{76EB033E-780D-45F5-BF48-E447204B88FA}" />
+        <image mediaid="{84288147-BA8C-43C1-AB18-AD32FE229179}" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sacarter@gmail.com
+        sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240225T214032Z
+      Value: 20240606T153700Z
     - ID: "f21c6fc0-82c6-49ef-bbcd-2e989a35e151"
       Hint: SXADemoText
       Value: New text thing, text changed
