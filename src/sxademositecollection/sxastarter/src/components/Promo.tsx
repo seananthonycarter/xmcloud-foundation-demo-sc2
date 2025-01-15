@@ -8,6 +8,8 @@ import {
   LinkField,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 
+//import MyDataComponent from "./MyDataComponent";
+
 interface Fields {
   PromoIcon: ImageField;
   PromoText: Field<string>;
@@ -28,11 +30,14 @@ const PromoDefaultComponent = (props: PromoProps): JSX.Element => (
   </div>
 );
 
+
+
 export const Default = (props: PromoProps): JSX.Element => {
   const id = props.params.RenderingIdentifier;
   if (props.fields) {
     return (
       <div className={`component promo ${props.params.styles}`} id={id ? id : undefined}>
+        {/* <MyDataComponent /> */}
         <div className="component-content">
           <div className="field-promoicon">
             <JssImage field={props.fields.PromoIcon} />
@@ -49,6 +54,7 @@ export const Default = (props: PromoProps): JSX.Element => {
           </div>
         </div>
       </div>
+      
     );
   }
 
