@@ -60,7 +60,6 @@ export const WithText = (props: PromoProps): JSX.Element => {
   if (props.fields) {
     return (
       <div className={`component promo ${props.params.styles}`} id={id ? id : undefined}>
-        <h2>title</h2>
         <div className="component-content">
           <div className="field-promoicon">
             <JssImage field={props.fields.PromoIcon} />
