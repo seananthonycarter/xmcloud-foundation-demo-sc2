@@ -1,0 +1,39 @@
+﻿---
+ID: "968f13d7-0dbd-4c0a-950a-e30e5f181f0a"
+Parent: "98a90e7e-3a37-4c2a-8185-404d3a32eaf3"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/TAC/Events/Presentation/Page Designs/Default Page Design
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{33ED3CE8-FA10-4F73-A5D8-30FAB404816B}|{F0A3B774-8690-4E77-BFC8-B784CCEDB60F}|{1F90C27E-80F2-43FE-95EE-D6731BE05D3D}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{4EDBDAAF-7EE7-4C9B-8360-71ECFDCEA66F}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240415T121117Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "690a1b70-0571-4d95-97f4-5c8cd9c8cdba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sacarter@gmail.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240415T121145Z
