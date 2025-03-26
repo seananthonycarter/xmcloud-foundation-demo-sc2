@@ -1,0 +1,11 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "nm.roles",
+    "roles": [
+        {
+        "domain": "sitecore",
+        "pattern": "SC *"
+        }
+    ],
+    "allowedPushOperations": "CreateAndUpdate"
+}
