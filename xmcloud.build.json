@@ -37,6 +37,9 @@
           },
           "reindex": {
             "indexNames": []
+          },
+          "scsModules": {
+            "modules": ["nm.roles"]
           }
         }
     }
