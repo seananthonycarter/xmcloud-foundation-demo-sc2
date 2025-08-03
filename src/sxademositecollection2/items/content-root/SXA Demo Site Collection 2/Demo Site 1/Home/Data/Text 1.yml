@@ -3,12 +3,42 @@ ID: "386e2952-e6f3-469c-8425-7ab8bc99f00a"
 Parent: "8aac3665-1f5c-439a-8977-cddb80c46230"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
 Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Home/Data/Text 1
-BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{3DC11FDE-F4BF-4799-A50A-0A8C64A3622D}"
 Languages:
+- Language: "de-CH"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240522T103251Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: "<h4>Bereitstellung von Basisprodukten im Großhandel für die besten Skate-Marken</h4>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f7d9973-714c-4848-8c8a-f135be56e7f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240522T103735Z
 - Language: en
   Versions:
   - Version: 1
@@ -29,14 +59,15 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>
+      Value: |
+        <div class="ck-content"><h4>Providing wholesale product basics to the best skate brands</h4></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "24c9016d-c92f-4b39-886f-64071ef5e04c"
+      Value: "32336d0c-05c8-47b1-b5db-328c2ae56334"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240606T155710Z
+      Value: 20250331T125317Z

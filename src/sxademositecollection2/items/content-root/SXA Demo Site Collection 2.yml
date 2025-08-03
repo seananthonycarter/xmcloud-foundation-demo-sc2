@@ -3,7 +3,6 @@ ID: "234a82d3-f0ee-44f3-9066-dea68572d73b"
 Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
 Template: "ea81d9d3-0123-4617-8802-60a173180da2"
 Path: /sitecore/content/SXA Demo Site Collection 2
-BranchID: "2d3805b9-3089-44f3-b952-d45c44add7f8"
 SharedFields:
 - ID: "102b58da-2a86-4953-b3cd-c9f91256b657"
   Hint: PlaceholderSettingsFolder
@@ -39,6 +38,31 @@ SharedFields:
   Hint: __Originator
   Value: "{8453C078-6D17-4817-9230-91654AFE69C6}"
 Languages:
+- Language: "de-CH"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240522T104500Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fdbc27a1-e676-4da2-99ae-cce4cec63fe6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240522T104500Z
 - Language: en
   Versions:
   - Version: 1

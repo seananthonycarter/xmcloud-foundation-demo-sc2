@@ -1,0 +1,41 @@
+﻿---
+ID: "357cc8a2-7ce6-4242-8f70-2ca9045fce5f"
+Parent: "8085d178-3749-4b6a-a8d6-22a3ba364688"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/SXA Demo Site Collection/Demo Site 1/Home/Data/Text 2aaa
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T145824Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: <h2>Perfomance tuning ideas</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean aliquam libero eu augue luctus laoreet. Phasellus a libero eu tortor tincidunt viverra eget in turpis. Maecenas in velit ac mauris bibendum fermentum nec ac ex. Sed ut turpis egestas, bibendum justo non, tincidunt augue. Mauris venenatis feugiat velit, sed sodales lacus finibus sollicitudin. Nulla facilisi. Vivamus lobortis cursus maximus. Cras eleifend molestie quam, nec cursus orci lobortis quis. Mauris venenatis ex nec libero finibus, vitae laoreet enim elementum. Quisque ut odio tellus. Nulla facilisi.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd143d1e-cac3-4495-8d1b-e0f23d584559"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240922T143906Z

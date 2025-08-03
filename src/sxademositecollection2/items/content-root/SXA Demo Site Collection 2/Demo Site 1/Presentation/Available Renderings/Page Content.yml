@@ -3,11 +3,11 @@ ID: "3c3d7317-e5dc-43d9-9959-1dbed717b246"
 Parent: "762c375b-0af2-4de4-aab6-e452c1f4346b"
 Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
 Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Presentation/Available Renderings/Page Content
-BranchID: "209f458a-5f7c-4024-9bbb-c78ad6d21abc"
 SharedFields:
 - ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
   Hint: Renderings
   Value: |
+    {66E6C140-B6F5-42A5-AA11-694A40EC35B6}
     {C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}
     {2492BAC4-DA07-4C86-87F0-9873D40E2276}
     {4B7FDB1D-C488-42CB-AB01-8608E90360E6}
@@ -34,11 +34,11 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d1b6d19f-dadd-456f-8904-fed24a1aa35b"
+      Value: "1d3a146e-0496-4e59-bb58-b7a08db71284"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sacarter@gmail.com
+        sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240307T131739Z
+      Value: 20240327T202458Z

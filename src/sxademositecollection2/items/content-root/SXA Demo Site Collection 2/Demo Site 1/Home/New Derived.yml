@@ -1,0 +1,37 @@
+﻿---
+ID: "3c5c47d4-b695-4394-baf5-1b2f710e6ea6"
+Parent: "7f3991b0-1169-4737-a152-4e41ce0e354a"
+Template: "85d28958-cbbc-43ae-8b1e-ec4b40fe77e8"
+Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Home/New Derived
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240331T064324Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "720050e3-c5e9-4a61-bce8-d6138bb5a8ba"
+    - ID: "b97dc899-2bad-4670-9c46-f2cfbe95f168"
+      Hint: MyTitle
+      Value: aaa
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d77d7e41-9521-42f7-99a8-d99043189993"
+      Hint: MyTitle
+      Value: bbb
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240331T064345Z

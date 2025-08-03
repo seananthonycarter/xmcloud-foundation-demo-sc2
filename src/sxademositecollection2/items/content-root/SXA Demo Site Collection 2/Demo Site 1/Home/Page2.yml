@@ -1,0 +1,75 @@
+﻿---
+ID: "b75279d4-9f08-4748-b83f-f6cb62c24b59"
+Parent: "7f3991b0-1169-4737-a152-4e41ce0e354a"
+Template: "a908dba0-b77c-4746-9175-f7c06ba023a0"
+Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Home/Page2
+SharedFields:
+- ID: "292c282b-e44c-490f-9043-69ba90cf2a31"
+  Hint: BookPageLink
+  Value: |
+    <link text="page2" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B75279D4-9F08-4748-B83F-F6CB62C24B59}" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{584A1A67-1107-4809-8202-DD467BF02505}" />
+Languages:
+- Language: "de-CH"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Seite2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241007T131439Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e61aeba1-43f5-498a-b0f7-6071b752b97a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241007T131516Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241007T131342Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Page2
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97436344-7b39-4a99-9da6-6d5b2e9d270f"
+    - ID: "97746b01-a8e8-4603-8270-95216da7a5f8"
+      Hint: Title
+      Value: Page2
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241007T131407Z

@@ -19,7 +19,7 @@ Languages:
       Value: 20240124T110710Z
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
-      Value: <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1>
+      Value: <p>Learn more here....</p>
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -30,7 +30,7 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d71ab32f-2f28-458f-9c18-2c6fca1be16e"
+      Value: "8392431c-6766-4839-a4e2-4db1df5c13b8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -40,8 +40,11 @@ Languages:
       Value:  Nulla placerat nisl at nisl fermentum tempus. Proin a diam in ante fringilla efficitur nec vel ex. Fusce egestas malesuada sagittis.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240606T165344Z
+      Value: 20240922T144511Z
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: 
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{80C085EB-BCF1-4C9E-9039-760CA7FDF673}" />
+        <image mediaid="1d18d7a9-765e-48d1-949c-274c19ba55e1" />

@@ -1,0 +1,56 @@
+﻿---
+ID: "8b76edb5-b318-4c39-8f74-8465714dc869"
+Parent: "8af2de46-860c-435c-8a34-97cbd7df5051"
+Template: "52483409-8d7d-4a5a-bfac-1d4cae1245ed"
+Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/New test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240328T162939Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "7c9b110e-4412-4b8e-81d4-85f2adba3d99"
+      Hint: checklist
+      Value: |
+        {B8E8F46D-B70F-471B-AC87-A3F2F54425E9}
+        {73AA29EA-DB19-4B2B-B4C8-54DAEA4B41E2}
+        {468BFA6C-4B6E-4985-9AB5-0D35C7CB5BD6}
+        {84A2CA87-AC9C-49B5-87F4-90B776F74BBA}
+        {DD369F68-1BAA-4E85-ABA2-1336569DBD06}
+        {1EE478F9-9C7F-4966-9581-F97B200AFBC9}
+        {52483409-8D7D-4A5A-BFAC-1D4CAE1245ED}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74156712-f249-42c0-9b8a-845fee6d917a"
+    - ID: "96ee3544-f8c5-4333-8cdf-9e9fbd4ba609"
+      Hint: multllist
+      Value: |
+        {EA81D9D3-0123-4617-8802-60A173180DA2}
+        {5795CBD0-5C8A-4A94-A6CA-F142688F8EB8}
+        {84A2CA87-AC9C-49B5-87F4-90B776F74BBA}
+        {B8E8F46D-B70F-471B-AC87-A3F2F54425E9}
+        {DD369F68-1BAA-4E85-ABA2-1336569DBD06}
+        {468BFA6C-4B6E-4985-9AB5-0D35C7CB5BD6}
+    - ID: "b787dfec-a737-4fd0-ace6-eaa56da28c4a"
+      Hint: treelist
+      Value: |
+        {183D77F3-51FB-468C-8B89-3AA1F68251A4}
+        {EA81D9D3-0123-4617-8802-60A173180DA2}
+        {7B18B475-8AAE-4489-9269-7FBFCF354563}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240328T164331Z

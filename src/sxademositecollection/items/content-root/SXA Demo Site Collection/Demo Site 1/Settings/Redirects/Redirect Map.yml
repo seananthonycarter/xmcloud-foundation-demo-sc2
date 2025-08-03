@@ -1,0 +1,38 @@
+﻿---
+ID: "e9b00679-882d-44f9-b794-f48a7f178341"
+Parent: "aa168487-9049-41b0-a885-ff3a1b4069a0"
+Template: "f4fb6125-f113-4373-8aa2-4648c2c1960e"
+Path: /sitecore/content/SXA Demo Site Collection/Demo Site 1/Settings/Redirects/Redirect Map
+SharedFields:
+- ID: "5ecfffc9-d530-4512-b757-9e9830f07d5a"
+  Hint: UrlMapping
+  Value: "%2fnews%2fnews-page-1=%2Farchive%2Fnews-page-1&%2fnews%2fnews-page-2=%2Farchive%2Fnews-page-2"
+- ID: "980dfa07-41d4-4c4e-ab28-de657afdb6bc"
+  Hint: RedirectType
+  Value: Redirect301
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250127T061150Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25d58215-ca3f-4800-9c8c-508976edd689"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250204T131858Z

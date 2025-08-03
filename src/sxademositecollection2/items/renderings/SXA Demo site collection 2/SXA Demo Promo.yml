@@ -2,7 +2,7 @@
 ID: "4b7fdb1d-c488-42cb-ab01-8608e90360e6"
 Parent: "72cdb07b-dfff-49b6-9578-5f103517e225"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Project/SXA Demo site collection 2/SXA Demo Promo
+Path: /sitecore/layout/Renderings/Project/SXA Demo site Collection 2/SXA Demo Promo
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName

@@ -3,6 +3,10 @@ ID: "deef8195-8844-4ff7-81ac-9e8ca29b4d48"
 Parent: "8085d178-3749-4b6a-a8d6-22a3ba364688"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
 Path: /sitecore/content/SXA Demo Site Collection/Demo Site 1/Home/Data/Text 7
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
 Languages:
 - Language: en
   Versions:
@@ -30,11 +34,11 @@ Languages:
         </p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "95519160-c1d1-44b6-b2bb-9f21197709ce"
+      Value: "79f4fed7-7069-498d-b74e-6529dba219ac"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240606T164945Z
+      Value: 20240922T143907Z

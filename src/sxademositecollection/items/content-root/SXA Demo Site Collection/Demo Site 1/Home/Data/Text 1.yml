@@ -3,6 +3,10 @@ ID: "d67a2f3f-0493-4aa5-8d99-ab9d4f729cfc"
 Parent: "8085d178-3749-4b6a-a8d6-22a3ba364688"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
 Path: /sitecore/content/SXA Demo Site Collection/Demo Site 1/Home/Data/Text 1
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: en
   Versions:
@@ -24,17 +28,14 @@ Languages:
         sitecore\HXXG3xnNRt
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: |
-        <p>
-        Nunc vel malesuada ex, sit amet venenatis orci. Proin vitae dui porta ante tincidunt hendrerit at a metus. Nullam ac vehicula nunc, vitae pellentesque sapien. Suspendisse faucibus dolor ut erat porttitor placerat. Nullam sed consectetur eros. Aliquam a sagittis ex, ac lacinia massa. Maecenas nec turpis vitae est rhoncus luctus. Vestibulum viverra tempus sem, sit amet luctus nulla iaculis ac. Mauris finibus ultrices erat, a sagittis tellus. Aenean in sagittis est, quis suscipit sapien. Ut congue ullamcorper enim, non tincidunt tellus luctus a. Nullam sed ex in tortor euismod fermentum. Ut vulputate ex augue, et rhoncus velit porttitor vitae. Nam viverra metus ac mattis semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc vitae semper tortor.
-        </p>
+      Value: <p>Footer content&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean aliquam libero eu augue luctus laoreet. Phasellus a libero eu tortor tincidunt viverra eget in turpis. Maecenas in velit ac mauris bibendum fermentum nec ac ex. Sed ut turpis egestas, bibendum justo non, tincidunt augue. Mauris venenatis feugiat velit, sed sodales lacus finibus sollicitudin. Nulla facilisi. Vivamus lobortis cursus maximus. Cras eleifend molestie quam, nec cursus orci lobortis quis. Mauris venenatis ex nec libero finibus, vitae laoreet enim elementum. Quisque ut odio tellus. Nulla facilisi.&nbsp;</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ed204fda-a39f-41e8-b6a7-98e03440ff03"
+      Value: "82e83850-47a4-41a5-8d7d-40806245f6a2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240606T164320Z
+      Value: 20240922T143906Z

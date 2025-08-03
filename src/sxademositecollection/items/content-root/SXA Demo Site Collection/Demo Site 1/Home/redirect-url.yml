@@ -1,0 +1,42 @@
+﻿---
+ID: "78ad6bad-c7a7-4b36-ad63-35f1a28b0450"
+Parent: "d4cc52ec-0c95-4cba-8dbe-71d5bdf78672"
+Template: "7bcdc4b2-c2af-4e73-a141-7cb51b4c7bcb"
+Path: "/sitecore/content/SXA Demo Site Collection/Demo Site 1/Home/redirect-url"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{6851A57A-DDFD-47E3-AC24-65A3DCED6F27}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d8180e7-16f9-44fe-a605-2a6031f0a649"
+      Hint: Title
+      Value: "redirect-url"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250127T062936Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "redirect-url"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47c6b2d7-9df6-4d54-b4b9-0444cf8014c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250127T062936Z

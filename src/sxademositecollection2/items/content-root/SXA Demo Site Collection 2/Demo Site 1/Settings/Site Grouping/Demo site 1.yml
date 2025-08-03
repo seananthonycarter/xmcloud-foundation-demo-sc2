@@ -10,9 +10,15 @@ SharedFields:
 - ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
   Hint: ThumbnailsRootPath
   Value: /sitecore/media library/Project/SXA Demo site collection 2/Demo site 1
+- ID: "822cc751-5c96-4a43-b687-ff4786a6eba2"
+  Hint: LinkProvider
+  Value: eftelingProvider
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: www.sxademosite1.localhost
+- ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
+  Hint: POS
+  Value: en=SC
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: sxademosite1
@@ -24,7 +30,7 @@ SharedFields:
   Value: www.sxademosite1.localhost
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
-  Value: Demo Sitecollection 2 demo site 1
+  Value: sxademosite1
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{23E42340-77BE-49FC-A7C4-77D3CB545223}"
@@ -46,11 +52,11 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9fcd9b03-f178-4796-954a-2e5da8c78921"
+      Value: "a1db19d1-53f2-4a9c-8599-4eb8c825a885"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240606T143920Z
+      Value: 20241007T130744Z

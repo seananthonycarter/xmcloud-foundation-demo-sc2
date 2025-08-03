@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{4EDBDAAF-7EE7-4C9B-8360-71ECFDCEA66F}" />
+    <image mediaid="{A089892E-1F4B-433B-929B-E6E1FF375147}" />
 Languages:
 - Language: en
   Versions:
@@ -29,11 +29,11 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "690a1b70-0571-4d95-97f4-5c8cd9c8cdba"
+      Value: "7672f7e4-ad5e-42f3-8205-d9050f7581f1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sacarter@gmail.com
+        sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240415T121145Z
+      Value: 20240522T075242Z

@@ -3,6 +3,10 @@ ID: "6bb7fe85-c8cf-4e65-86cc-fac4ef320ace"
 Parent: "8085d178-3749-4b6a-a8d6-22a3ba364688"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
 Path: /sitecore/content/SXA Demo Site Collection/Demo Site 1/Home/Data/Text 4
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
 Languages:
 - Language: en
   Versions:
@@ -30,11 +34,11 @@ Languages:
         <h5>"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."</h5>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a2547d04-d9f4-46b5-97dc-5fb07239e70e"
+      Value: "cae79f6d-251c-4cb6-9255-6a1507a7ee1b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240606T164242Z
+      Value: 20240922T143906Z

@@ -3,7 +3,6 @@ ID: "8af2de46-860c-435c-8a34-97cbd7df5051"
 Parent: "234a82d3-f0ee-44f3-9066-dea68572d73b"
 Template: "1615c462-7e1b-41e1-872f-25bbaf90588c"
 Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
   Hint: Modules
@@ -27,7 +26,9 @@ SharedFields:
     {ED6C4A9B-E3DC-413A-BEF6-337ABB7FD2C7}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
-  Value: "{0907A66E-3816-48E2-9470-D7D395D2ACE7}"
+  Value: |
+    {0907A66E-3816-48E2-9470-D7D395D2ACE7}
+    {0907A66E-3816-48E2-9470-D7D395D2ACE7}
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{2B219A9E-2414-4BEE-A5D8-BC7A95C88B2F}"
@@ -35,6 +36,31 @@ SharedFields:
   Hint: __Originator
   Value: "{A0EECF65-09AD-4A10-AE46-7DF70106CFE6}"
 Languages:
+- Language: "de-CH"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240522T104445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56dbe841-562f-4626-a00c-8bed3466c18b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240522T104445Z
 - Language: en
   Versions:
   - Version: 1
@@ -52,11 +78,11 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "49b58334-e9b9-4c2b-9357-db30954e36a1"
+      Value: "d46c574e-b6ac-4515-803b-17598e060892"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sacarter@gmail.com
+        sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240219T160719Z
+      Value: 20240529T144641Z

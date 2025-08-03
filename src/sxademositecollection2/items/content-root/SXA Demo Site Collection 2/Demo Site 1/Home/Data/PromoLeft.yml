@@ -3,12 +3,46 @@ ID: "fd0277f6-020b-461b-9c20-bc2d40a5d096"
 Parent: "8aac3665-1f5c-439a-8977-cddb80c46230"
 Template: "dd369f68-1baa-4e85-aba2-1336569dbd06"
 Path: /sitecore/content/SXA Demo Site Collection 2/Demo Site 1/Home/Data/PromoLeft
-BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{BB1BAB02-35FC-469D-B037-EB036A54EB49}"
 Languages:
+- Language: "de-CH"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "10274a1f-a9df-4a68-a508-66aeb04afbb7"
+      Hint: PromoText
+      Value: "<h4>neueste Streetwear</h4><p>Blitze, die wir schon lange verkündigt. Aber sie glauben an ihn und hören ihn nicht—das ist auch was Altes!—und bilden ihre Kinder übergeben und ihm.</p><p><br /></p><p><br /></p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240522T103138Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "877612ea-1078-467d-9686-8ebf43a44f03"
+    - ID: "b2d29367-4337-46b4-b0dd-77c8a2a4c2f9"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="76eb033e-780d-45f5-bf48-e447204b88fa" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\HXXG3xnNRt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240522T104206Z
 - Language: en
   Versions:
   - Version: 1
@@ -18,9 +52,7 @@ Languages:
       Value: <r />
     - ID: "10274a1f-a9df-4a68-a508-66aeb04afbb7"
       Hint: PromoText
-      Value: |
-        <h3>Latest Tricks</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.</p>
+      Value: "<h3>Latest Streetwear</h3><p>Lightning that we have long proclaimed. But they believe in him and do not hear him - that is also an old thing! - and they train their children to surrender to him.</p>"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20240215T080854Z
@@ -34,18 +66,18 @@ Languages:
         sitecore\sacarter@gmail.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9b27d519-ea58-41d6-8821-9ced91a2ac73"
+      Value: "1b06f2b9-c60a-4056-ace5-db4e942dc25f"
     - ID: "b2d29367-4337-46b4-b0dd-77c8a2a4c2f9"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{84288147-BA8C-43C1-AB18-AD32FE229179}" />
+        <image mediaid="{76EB033E-780D-45F5-BF48-E447204B88FA}" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\HXXG3xnNRt
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240606T153700Z
+      Value: 20240522T104229Z
     - ID: "f21c6fc0-82c6-49ef-bbcd-2e989a35e151"
       Hint: SXADemoText
       Value: New text thing, text changed
